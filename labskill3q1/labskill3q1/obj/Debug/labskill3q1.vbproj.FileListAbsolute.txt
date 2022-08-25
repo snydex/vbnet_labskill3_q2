@@ -1,0 +1,12 @@
+D:\COMSTAR 2021\Visual Studio\labskill3q1\labskill3q1\bin\Debug\labskill3q1.exe.config
+D:\COMSTAR 2021\Visual Studio\labskill3q1\labskill3q1\bin\Debug\labskill3q1.exe
+D:\COMSTAR 2021\Visual Studio\labskill3q1\labskill3q1\bin\Debug\labskill3q1.pdb
+D:\COMSTAR 2021\Visual Studio\labskill3q1\labskill3q1\bin\Debug\labskill3q1.xml
+D:\COMSTAR 2021\Visual Studio\labskill3q1\labskill3q1\obj\Debug\labskill3q1.vbproj.AssemblyReference.cache
+D:\COMSTAR 2021\Visual Studio\labskill3q1\labskill3q1\obj\Debug\labskill3q1.Form1.resources
+D:\COMSTAR 2021\Visual Studio\labskill3q1\labskill3q1\obj\Debug\labskill3q1.Resources.resources
+D:\COMSTAR 2021\Visual Studio\labskill3q1\labskill3q1\obj\Debug\labskill3q1.vbproj.GenerateResource.cache
+D:\COMSTAR 2021\Visual Studio\labskill3q1\labskill3q1\obj\Debug\labskill3q1.vbproj.CoreCompileInputs.cache
+D:\COMSTAR 2021\Visual Studio\labskill3q1\labskill3q1\obj\Debug\labskill3q1.exe
+D:\COMSTAR 2021\Visual Studio\labskill3q1\labskill3q1\obj\Debug\labskill3q1.xml
+D:\COMSTAR 2021\Visual Studio\labskill3q1\labskill3q1\obj\Debug\labskill3q1.pdb
